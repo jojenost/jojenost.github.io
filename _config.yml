@@ -1,0 +1,18 @@
+title: PharmaTech Africa
+description: A blog on healthcare, technology, and data in Africa.
+baseurl: ""
+url: "https://akimana.github.io"
+theme: minima
+
+author:
+  name: Akimana Jean de Dieu
+  bio: Pharmacy student in Rwanda exploring the intersection of healthcare, technology, and data. Passionate about AI in African health innovation.
+
+header_pages:
+  - index.md
+  - about.md
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
